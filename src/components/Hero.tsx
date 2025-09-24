@@ -51,7 +51,7 @@ export const Hero = () => {
               <img 
                 src={dadlogo} 
                 alt="Language learning session with diverse students" 
-                className="w-full h-[500px] object-cover"
+                className="w-auto h-auto object-cover"
               />
               {/* <div className="absolute inset-0 bg-gradient-to-t from-black/20 to-transparent"></div> */}
             {/* </div> */}
